@@ -1,0 +1,12 @@
+Dataset: tesum
+Model,0-shot,1-shot,2-shot,3-shot
+gemma,0.002,0.000,0.000,0.000
+
+Dataset: news
+Model,0-shot,1-shot,2-shot,3-shot
+gemma,0.001,0.000,0.000,0.000
+
+Dataset: books
+Model,0-shot,1-shot,2-shot,3-shot
+gemma,n/a,n/a,n/a,n/a
+

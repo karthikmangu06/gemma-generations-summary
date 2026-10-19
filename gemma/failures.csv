@@ -1,0 +1,13 @@
+dataset,model,shots,n,empty,non_telugu,copied_prefix,demos_shortened,target_shortened,too_long_skipped,duplicate_outputs
+books,gemma,0,250,0,250,0,0,0,0,0
+books,gemma,1,250,0,250,0,0,0,0,0
+books,gemma,2,250,0,250,0,0,0,0,0
+books,gemma,3,250,0,250,0,0,0,0,0
+news,gemma,0,250,0,246,0,0,0,0,0
+news,gemma,1,250,0,249,0,0,0,0,0
+news,gemma,2,250,0,250,0,0,0,0,0
+news,gemma,3,250,0,250,0,0,0,0,0
+tesum,gemma,0,250,0,248,0,0,0,0,0
+tesum,gemma,1,250,0,250,0,0,0,0,0
+tesum,gemma,2,250,0,250,0,0,0,0,0
+tesum,gemma,3,250,0,250,0,0,0,0,0

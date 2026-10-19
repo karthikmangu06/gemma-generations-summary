@@ -1,0 +1,13 @@
+dataset,model,metric,k_vs_3shot,mean_diff,p_raw,p_bonferroni
+tesum,gemma,rougeL,0,0.0048,5.746e-08,1.724e-07
+tesum,gemma,rougeL,1,-0.0009,0.0393,0.1179
+tesum,gemma,rougeL,2,-0.0001,0.5611,1
+tesum,gemma,bertscore_f1,0,0.0123,2.005e-36,6.016e-36
+tesum,gemma,bertscore_f1,1,0.0026,2.102e-05,6.306e-05
+tesum,gemma,bertscore_f1,2,0.0019,0.002534,0.007603
+news,gemma,rougeL,0,0.0020,0.004337,0.01301
+news,gemma,rougeL,1,-0.0001,0.4413,1
+news,gemma,rougeL,2,0.0001,0.4769,1
+news,gemma,bertscore_f1,0,0.0033,8.82e-06,2.646e-05
+news,gemma,bertscore_f1,1,-0.0001,0.9467,1
+news,gemma,bertscore_f1,2,-0.0008,0.05215,0.1565

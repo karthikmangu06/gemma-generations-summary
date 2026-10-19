@@ -1,0 +1,17 @@
+{
+  "tesum": {
+    "test_docs": 250,
+    "has_reference": true,
+    "demo_source": "tesum"
+  },
+  "news": {
+    "test_docs": 250,
+    "has_reference": true,
+    "demo_source": "news"
+  },
+  "books": {
+    "test_docs": 250,
+    "has_reference": false,
+    "demo_source": "tesum"
+  }
+}

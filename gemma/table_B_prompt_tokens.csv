@@ -1,0 +1,12 @@
+Dataset: tesum
+Model,0-shot,1-shot,2-shot,3-shot
+gemma,573,1351,2060,2735
+
+Dataset: news
+Model,0-shot,1-shot,2-shot,3-shot
+gemma,729,1324,1906,2477
+
+Dataset: books
+Model,0-shot,1-shot,2-shot,3-shot
+gemma,1455,2233,2942,3617
+
